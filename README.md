@@ -25,7 +25,7 @@ $ conda env create -f mpgevaEnv.yml
 
 ### Test on video 1
 
-Create conda environment using the yml file.
+Test the model.
 
 ```sh
 $ python object_tracker.py -p deploy.prototxt -m res10_300x300_ssd_iter_140000.caffemodel -v ./video1.mp4
