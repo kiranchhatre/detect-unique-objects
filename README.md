@@ -54,6 +54,6 @@ It works only with video 1. It has bad performance on video 3 (needs to tweak co
    [PlDb]: <https://drive.google.com/file/d/1FooT6XsUGdBhc4SngwaFTHTItWInoGDf/view?usp=sharing>
    [PlGh]: <https://drive.google.com/file/d/1GeAhhd6Uu_q-s_zyM6i3Sb-Zwsn4oiA2/view?usp=sharing>
    [PlDn]: <https://drive.google.com/file/d/1L8Ty_3Q54D4YGMykYgFywUs_KaZL81cN/view?usp=sharing>
-   [PlD1]: <pyimagesearch.com>
-   [PlD2]: <tensorscience.com>
+   [PlD1]: <https://www.pyimagesearch.com/>
+   [PlD2]: <https://www.tensorscience.com/>
    
